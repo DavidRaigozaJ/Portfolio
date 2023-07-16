@@ -7,10 +7,6 @@ Welcome to My Portfolio :sunny::sunny:
 
 https://steep-wind-2510.on.fleek.co/  :eyes::eyes:
 
-
-
-Are you looking for a creative and technically skilled blockchain developer? Look no further than my portfolio on GitHub! Here, you can explore my latest projects and see how my unique blend of creativity and technical expertise can help you achieve your blockchain development goals.
-
 My Value Proposition
 I believe that blockchain technology offers an incredible opportunity to revolutionize the way we interact with money and art. As a design engineering graduate and a master of arts, I bring a fresh perspective to the world of blockchain development. My passion for creating beautiful and meaningful products inspires me to push the boundaries of what's possible with blockchain technology. Whether you need help with building Ethereum nodes or creating innovative NFTs, I have the skills and experience to help you succeed.
 
